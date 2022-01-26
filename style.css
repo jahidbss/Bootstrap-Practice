@@ -1,0 +1,12 @@
+
+ul li a{
+    background: #0a0909;
+    border-right: 1px solid white;
+}
+ul li a:hover{
+    background: #470202;
+}
+
+.mar5{
+    margin-top: 100px;
+}
